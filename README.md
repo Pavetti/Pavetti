@@ -45,18 +45,15 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <h2 align="left">✉️ Contact</h2>
 
 ###
 
-<div align="left">
-  <a href="rigoletto." target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="rigoletto.jj@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+<p align="left">🌍 discord: rigoletto.</p>
 
 ###
 
@@ -74,5 +71,9 @@
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="ko-fi logo"  />
   </a>
 </div>
+
+###
+
+<p align="left"></p>
 
 ###
